@@ -1,0 +1,12 @@
+.center_text{
+    text-align: center;
+}
+
+.display_flex{
+    display: flex;
+    align-items: center;
+}
+
+.black_border{
+    border: black 1px solid;
+}
